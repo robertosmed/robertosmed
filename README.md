@@ -5,9 +5,9 @@
 ![image](https://user-images.githubusercontent.com/54160327/111918964-4abb0580-8a66-11eb-9f43-c06463941b53.png)
 
 
-I'm from Brazil
+I'm from Brazil ![image](https://user-images.githubusercontent.com/54160327/111919801-8f48a000-8a6a-11eb-9ed7-bd780a7f636d.png)
 
-I'm northeastern☀️🌴🌊
+I'm northeastern☀️🌴🌊, in special from Pernambuco 
 
 I work in the company Smarkio Brazil as QA Jr 💻
 
