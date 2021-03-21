@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Roberto Medeiros👋</h1>
-<h3 align="center">A Professional QA Júnior from Brazil</h3>
+<h1 align="center">Olá, Sou Roberto Medeiros👋</h1>
+<h3 align="center">Um profissional QA Júnior </h3>
 
-### Can you also me contactar:
+### Você pode também me contactar por:
   -  <a href="https://whats.link/robertomedeiros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="robertosmedeiros" height="30" width="40" /></a>
   -  <a href="mailto:robertosm08@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="robertosm08@gmail.com" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/robertosm08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robertosm08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robertosmedeiros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="robertosmedeiros" height="30" width="40" /></a>
