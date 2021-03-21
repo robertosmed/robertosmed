@@ -1,7 +1,11 @@
 <h1 align="center">Hi there👋</h1>
 <h2 align="center">I'm Roberto Medeiros</h2>
-- I'm from Brazilian 🇧🇷, northeastern ☀️🌴
-- I work in the company Smarkio Brazil as QA Jr
+
+I'm from Brazil
+
+I'm northeastern☀️🌴🌊
+
+I work in the company Smarkio Brazil as QA Jr
 
 <h3 align="center">Can you also speak with me: </h3>
   <a href="https://whats.link/robertomedeiros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="robertosmedeiros" height="30" width="40" /></a>
