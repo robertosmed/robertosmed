@@ -7,7 +7,8 @@
 
 I'm from Brazil ![image](https://user-images.githubusercontent.com/54160327/111919801-8f48a000-8a6a-11eb-9ed7-bd780a7f636d.png)
 
-I'm northeastern☀️🌴🌊, in special from Pernambuco 
+I'm northeastern☀️🌴🌊, in special from Pernambuco ![image](https://user-images.githubusercontent.com/54160327/111920004-59f08200-8a6b-11eb-88e8-19771fcd3eed.png)
+
 
 I work in the company Smarkio Brazil as QA Jr 💻
 
