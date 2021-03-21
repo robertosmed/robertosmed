@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/54160327/111918964-4abb0580-8a66-11eb-9f43-c06463941b53.png)
 
 
-I'm from Brazil 🇧🇷
+I'm from Brazil
 
 I'm northeastern☀️🌴🌊
 
