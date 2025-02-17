@@ -10,7 +10,7 @@ I'm from Brazil ![image](https://user-images.githubusercontent.com/54160327/1119
 I'm northeastern☀️🌴🌊, in special from Pernambuco ![image](https://user-images.githubusercontent.com/54160327/111920004-59f08200-8a6b-11eb-88e8-19771fcd3eed.png)
 
 
-I work in the company Smarkio Brazil as QA Jr 💻
+I work in the company Evertec-Sinqia as QA Pleno 💻
 
 <h3 align="left">Can you also speak with me: </h3>
   <a href="https://whats.link/robertomedeiros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="robertosmedeiros" height="30" width="40" /></a>
